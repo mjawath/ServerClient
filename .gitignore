@@ -1,0 +1,16 @@
+
+ClientKotlin/.idea/
+
+ClientKotlin/out/
+
+ClientKotlin/ClientKotlin.iml
+
+JavaServer/.idea/
+
+SocketServer/.idea/
+
+JavaServer/out/
+
+JavaClient/.idea/
+
+JavaClient/out/
